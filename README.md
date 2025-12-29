@@ -1,17 +1,26 @@
-# wecopapp
+# WECOP – Mobile Application for Rural Women Marketing
 
-A new Flutter project.
+## Description
+WECOP est une application mobile destinée à aider les femmes rurales à promouvoir et vendre leurs produits de manière simple et inclusive.  
+L’application intègre des fonctionnalités basées sur l’intelligence artificielle pour faciliter le marketing des produits, notamment pour les utilisatrices ayant des difficultés en lecture et en écriture. Elle inclut également une fonctionnalité **Speech-to-Text**, permettant de publier des produits et envoyer des messages vocalement.
 
-## Getting Started
+## Key Features
+- Création et gestion de comptes utilisateurs
+- Publication de produits via images et assistance IA
+- Outils de marketing intelligents pour améliorer la visibilité des produits
+- Communication simplifiée entre vendeuses et clients
+- **Saisie vocale (Speech-to-Text)**
+- Interface mobile intuitive et accessible
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Frontend** : Flutter
+- **Backend** : Firebase (Authentication, Firestore, Storage)
+- **AI** : Services d’IA pour l’assistance marketing et la génération de contenu
+- **Speech-to-Text** : Intégration pour la saisie vocale et les messages audio
 
-A few resources to get you started if this is your first Flutter project:
+## Project Type
+- Mobile application plus site web
+- AI-assisted marketing platform
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# wecopapp" 
+## Author
+- Bouchra Ezzaim
