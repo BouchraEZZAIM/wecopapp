@@ -19,7 +19,7 @@ L’application intègre des fonctionnalités basées sur l’intelligence artif
 - **Speech-to-Text** : Intégration pour la saisie vocale et les messages audio
 
 ## Project Type
-- Mobile application plus site web
+- Mobile application
 - AI-assisted marketing platform
 
 ## Author
