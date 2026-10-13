@@ -22,5 +22,3 @@ L’application intègre des fonctionnalités basées sur l’intelligence artif
 - Mobile application
 - AI-assisted marketing platform
 
-## Author
-- Bouchra Ezzaim
